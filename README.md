@@ -145,8 +145,7 @@ Run CatchMe.exe.
 
 Ensure the textures/ folder is in the same directory as CatchMe.exe to avoid texture loading errors.
 The executable is fully static, requiring no external DLLs.
-Large texture files may be hosted on Google Drive due to GitHub size limits:
-Download textures
+Press F to FullScreen as soon as game starts.
 
 
 
