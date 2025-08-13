@@ -18,7 +18,7 @@ Platform: Windows (x64, Release)
 
 Installation
 
-Clone the repository:git clone https://github.com/[YourGitHubUsername]/CatchMe.git
+Clone the repository:git clone https://github.com/Dervis-Oral/CatchMe.git
 
 
 Navigate to the directory:cd CatchMe
