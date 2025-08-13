@@ -27,6 +27,7 @@ Navigate to the directory:cd CatchMe
 Run the game:
 Ensure the textures/ folder (with 26 PNG files) is in the same directory as CatchMe.exe.
 Double-click CatchMe.exe or run:CatchMe.exe
+Press F to full screen as soon as game opens because game designed for full screen not windowed.
 
 
 
@@ -56,7 +57,6 @@ Notes
 
 The textures/ folder must be in the same directory as CatchMe.exe to avoid "textures not found" errors.
 The executable is fully static, requiring no external dependencies.
-Achieved the highest grade (AA) in the course, showcasing skills in C++, graphics programming, and dependency management.
 
 License
 This project is for educational purposes and not licensed for commercial use.
